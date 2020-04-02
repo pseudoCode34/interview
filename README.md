@@ -1,7 +1,8 @@
-# interview
+<h2> Purpose </h2>
 Algorithms and Data structures for competitive programming
 
-Language Preferencees : C, C++ and Python
+<h2> Language Preferencees </h2>
+C, C++ and Python
 
-Contribution
-Please contribute to this repository to help it make better. All modifications like new question, code improvement, document improvement, etc. are always welcome.
+<h2> Contribution </h2>
+Please contribute to this repository to make it better. All modifications like new question, code improvement, document improvement, etc. are always welcome.
